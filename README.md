@@ -63,3 +63,7 @@ The code associated with the paper "Efficient Exploration on Worst-Case Delay Pe
 t1, t2, t3, t4, t5, t6, t7, t8, t9
 ```
 
+## 运行
+
+`python fcfs.py`
+

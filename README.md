@@ -1,6 +1,6 @@
 # Deterministic-Network-Calculus
-DNC code for the paper "Efficient Exploration on Worst-Case Delay Performance of Networked Industrial Control Systems via Network Calculus and Deep Learning."
-Accepted by [Symposium on Reliable Distributed Systems (SRDS 2024) ](https://srds-conference.org/)
+DNC code for the paper 'Efficient Exploration on Worst-Case Delay Performance of Networked Industrial Control Systems via Network Calculus and Deep Learning,' where I am the second author. 
+Accepted by the Symposium on Reliable Distributed Systems (SRDS 2024).
 # Deterministic-Network-Calculus
 
 ## Input File
